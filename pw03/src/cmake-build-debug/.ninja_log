@@ -1,0 +1,6 @@
+# ninja log v5
+3	1768	7024135830161298	CMakeFiles/L3-test_ti.dir/test_tri.cpp.obj	4c9329b9b37b633b
+1772	1895	7024135831384602	L3-test_ti.exe	3a1c312221fca93a
+7	5011	7013583279144883	CMakeFiles/L3-mesure_temps.dir/mesure_temps.cpp.obj	e703f8fad6c4a985
+5012	5379	7013583282794501	L3-mesure_temps.exe	1df2fa9221894e0b
+2	442	7024137864019641	build.ninja	4becfcd10c65d0b9

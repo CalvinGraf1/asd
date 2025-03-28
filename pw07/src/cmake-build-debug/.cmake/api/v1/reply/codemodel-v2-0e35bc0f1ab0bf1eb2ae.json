@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ASD1_Labs_2020",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "L9-Dijkstra::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-L9-Dijkstra-Debug-c3ce4a0ff24a06bc1854.json",
+					"name" : "L9-Dijkstra",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "L9-Recursive::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-L9-Recursive-Debug-5274269d17c325f12bb0.json",
+					"name" : "L9-Recursive",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "S:/Annee1/ASD/ASD-Lab7/ASD2023-L7-Expressions-arithmetiques/src/cmake-build-debug",
+		"source" : "S:/Annee1/ASD/ASD-Lab7/ASD2023-L7-Expressions-arithmetiques/src"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

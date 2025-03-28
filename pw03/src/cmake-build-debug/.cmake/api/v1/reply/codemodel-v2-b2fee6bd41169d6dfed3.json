@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ASD-Labos-2021",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "L3-demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-L3-demo-Debug-f164f9818f8b423ab2a9.json",
+					"name" : "L3-demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "L3-mesure_temps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-L3-mesure_temps-Debug-6fd21e0f0cfb8e3d79e0.json",
+					"name" : "L3-mesure_temps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "L3-verif_tri::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-L3-verif_tri-Debug-5261e673555b549b10c5.json",
+					"name" : "L3-verif_tri",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "S:/Annee1/ASD/ASD-Lab3/ASD2023-L3-Tris/src/cmake-build-debug",
+		"source" : "S:/Annee1/ASD/ASD-Lab3/ASD2023-L3-Tris/src"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
